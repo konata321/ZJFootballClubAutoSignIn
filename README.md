@@ -6,6 +6,8 @@ pip install ZJFootballAutoSign
 ### 用法
 只有一个函数this module contains only one function:
 signIn(account ,password , edgeDriverPath)
+
+##### 参数解释
 account : 账号
 password : 密码
 edgeDriverPath : 
