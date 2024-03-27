@@ -1,5 +1,7 @@
 # ZJFootballClubAutoSignIn
 
+一个用于在浙江职业足球俱乐部签到的脚本
+
 ### 安装
 pip install ZJFootballAutoSign
 
